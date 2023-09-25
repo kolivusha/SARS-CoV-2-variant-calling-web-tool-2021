@@ -9,7 +9,7 @@ Creating a README file for a simple variant calling tool based on an academic ar
 
 ## Overview
 
-This repository contains a Web based SARS-CoV-2 variant caller based on article by Evans K. Rono <a href="https://www.biorxiv.org/content/10.1101/2021.10.08.463334v2"> "Covid-19 genomic analysis reveals clusters of emerging sublineages within the delta variant" </a>. The tool was designed to identify genetic variations in sequences and has been based on the principles outlined in the referenced academic paper.
+This repository contains a Web based SARS-CoV-2 variant caller based on article by Evans K. Rono <a href="https://www.biorxiv.org/content/10.1101/2021.10.08.463334v2"> Covid-19 genomic analysis reveals clusters of emerging sublineages within the delta variant </a>. The tool was designed to identify genetic variations in sequences and has been based on the principles outlined in the referenced academic paper.
 
 ## Features
 
