@@ -1,4 +1,4 @@
-# SARS-CoV-2-variant-calling-web-tool-2021-
+# SARS-CoV-2-variant-calling-web-tool-2021
 Web based SARS-CoV-2 variant caller based on article by Evans K. Rono (2021)
 
 Creating a README file for a simple variant calling tool based on an academic article that is no longer in development involves providing information about the tool, its purpose, features, installation instructions, usage, and acknowledgments. Here's a sample README file:
